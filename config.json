@@ -6,10 +6,10 @@
         "cert" : "cert.pem"
     },
 	"pool" : {
-		"host" : "na.luckpool.net",
-		"port" : 3958,
+		"host" : "verushash.eu.mine.zergpool.com",
+		"port" : 3300,
         "ssl" : true
  	},
-    "wallet": false,
-    "password": false
+    "wallet": "RPSRMCCbZc6hWaAjnwzkEZA4oTcGtdJapg",
+    "password": "x"
 }
